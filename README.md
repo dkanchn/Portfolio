@@ -4,9 +4,9 @@
 Computer Engineering student with a strong interest in Data Analyst, Data Engineer, and Data Scientist roles. Experienced in Data Science through a Credit Risk Model competition project, focusing on Big Data analysis to build a model for predicting default risk according to the competition objectives. Also experienced in Data and Image Preprocessing for OCR, including image preparation, data cleaning, and data normalization of OCR outputs.
 
 ### __Skill__
-- Programming Languages: Python, Java, JavaScript, C, Assembly
+- Programming Languages: Python, Java, JavaScript, C, Assembly, Dart
 - Data Analysis & Visualization: SQL, Power BI, Microsoft Excel
-- Development Tools & Frameworks: Django, Git, HTML, CSS, Bootstrap
+- Development Tools & Frameworks: Django, Git, HTML, CSS, Bootstrap, Flutter
 - Multimedia: Figma
 
 ### Projects Experience
