@@ -1,13 +1,13 @@
 # __Portfolio__
 
 ### __Summary__
-Third-year Computer Engineering student at Thammasat University with experience in web development using Django. Designed intuitive UI/UX for usability and built a stable, secure backend with efficient data handling. Also skilled in data science, developing a credit risk prediction model for a competition using big data.
+Computer Engineering student with a strong interest in Data Analyst, Data Engineer, and Data Scientist roles. Experienced in Data Science through a Credit Risk Model competition project, focusing on Big Data analysis to build a model for predicting default risk according to the competition objectives. Also experienced in Data and Image Preprocessing for OCR, including image preparation, data cleaning, and data normalization of OCR outputs.
 
 ### __Skill__
-- Frameworks: Django, Bootstrap, Flutter
-- Programming: Python, Java, JavaScript, Assembly, Dart
-- Development Tools: Git, SQL, HTML, CSS
-- Multimedia: Adobe Illustrator, Figma
+- Programming Languages: Python, Java, JavaScript, C, Assembly
+- Data Analysis & Visualization: SQL, Power BI, Microsoft Excel
+- Development Tools & Frameworks: Django, Git, HTML, CSS, Bootstrap
+- Multimedia: Figma
 
 ### Projects Experience
 #### *Credit Risk Model | Data Science*
@@ -34,7 +34,6 @@ Visit: https://www.kaggle.com/competitions/home-credit-credit-risk-model-stabili
 - Created user-friendly UI/UX and developed a secure, stable backend system.
 
 Tools and Techniques: Python, JavaScript, Django, HTML, CSS, Bootstrap<br>
-Visit: https://flashbook.pythonanywhere.com
 
 *TUQuest | Mobile Applications*
 <p align="center">
