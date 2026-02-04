@@ -47,4 +47,3 @@ Tools and Techniques: Python, JavaScript, Django, HTML, CSS, Bootstrap<br>
 - Implemented key features such as emergency alerts, important announcements, and university event reminders.
 
 Tools and Techniques: Flutter, Dart, Figma, Firebase, Android Studio<br>
-Visit: __*IN PROCESS*__
