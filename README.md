@@ -9,6 +9,12 @@ Computer Engineering student with a strong interest in Data Analyst, Data Engine
 - Development Tools & Frameworks: Django, Git, HTML, CSS, Bootstrap, Flutter
 - Multimedia: Figma
 
+### Professional experience
+#### Internship, National Electronics and Computer Technology Center (NECTEC)                                                                Jun 2025 - Jul 2025
+- Data & Image Preprocessing for OCR evaluation
+- Data cleaning, ground truth preparation, and OCR result analysis
+- API-based OCR testing and processing time analysis
+
 ### Projects Experience
 #### *Credit Risk Model | Data Science*
 ![image](assets/p9.png)
