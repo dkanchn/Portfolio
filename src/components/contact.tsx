@@ -51,7 +51,7 @@
                 <div>
                   <p className="text-sm text-white-500">Email</p>
                   <h3 className="mt-1 text-lg font-semibold text-white">
-                    your.email@example.com
+                    dkanchana.4work@gmail.com
                   </h3>
                 </div>
 
@@ -76,7 +76,7 @@
                 <div>
                   <p className="text-sm text-white-500">Tel.</p>
                   <h3 className="mt-1 text-lg font-semibold text-white">
-                    +66 81 234 5678
+                    +66 99 189 4839
                   </h3>
                 </div>
 
