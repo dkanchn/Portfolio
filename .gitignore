@@ -8,3 +8,12 @@ out
 npm-debug.log*
 coverage
 .DS_Store
+
+# SSH keys
+*.pem
+*.pub
+*_ed25519
+*_rsa
+*_ecdsa
+
+iddkanchn
