@@ -70,7 +70,7 @@ export default function Hero() {
 
 
                         <img
-                            src="/images/profile/profile.jpg"
+                            src="images/profile/profile.jpg"
                             alt="Profile illustration"
                             className="h-[420px] w-full rounded-[24px] border border-red-500/10 object-cover bg-[#0d0d0d]"
                         />
