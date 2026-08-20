@@ -13,7 +13,7 @@ const nextConfig: NextConfig = {
 
     ...(isProd && {
         basePath: "/Portfolio",
-        assetPrefix: "/Portfolio/",
+        assetPrefix: "/Portfolio/public",
     }),
 };
 
