@@ -1,11 +1,11 @@
 export const skillGroups = [
   {
     title: "Programming Languages",
-    items: ["Python", "Java", "JavaScript", "Dart"],
+    items: ["Python", "JavaScript", "Dart"],
   },
   {
     title: "Data Analytics & Visualization",
-    items: ["SQL", "Power BI", "Tableau", "Excel"],
+    items: ["SQL", "Power BI", "Excel"],
   },
   {
     title: "Development",
@@ -13,6 +13,6 @@ export const skillGroups = [
   },
   {
     title: "Tools",
-    items: ["Figma", "Docker", "Firebase", "Postman", "Linux"],
+    items: ["Figma", "Firebase", "Postman"],
   },
 ];
